@@ -1,5 +1,26 @@
 <h1 align="center">Hi 👋, I'm Basema Odat</h1>
 <h3 align="center">A passionate student and aspiring developer from Irbid, Jordan</h3>
+
+<h3 align="left">Contact & Socials:</h3>
+<p align="left">
+  <a href="https://www.instagram.com/rawandatt" target="_blank">
+    <img alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" />
+  </a>
+  <a href="tel:+962799453469" target="_blank">
+    <img alt="Phone" width="40px" src="https://cdn-icons-png.flaticon.com/512/597/597177.png" />
+  </a>
+  <a href="https://open.spotify.com/track/3rq5w4bQGigXOfdN30ATJt?si=3dc531731b8041b1" target="_blank">
+    <img alt="Spotify" width="40px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://socialify.git.ci/BasemaOdat/BasemaOdat/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Basema Odat" width="700" height="300" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BasemaOdat&theme=onedark&column=-1" />
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
