@@ -81,8 +81,6 @@
 
 <h3 align="left">📈 WakaTime Coding Stats</h3>
 
-```text
-
 
 <h1 align="center">Hi 👋, I'm Basema Odat</h1>
 <h3 align="center">A passionate student and aspiring developer from Irbid, Jordan</h3>
