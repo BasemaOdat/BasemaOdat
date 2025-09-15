@@ -1,7 +1,5 @@
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/BasemaOdat/count.svg" alt="Visitor Count" />
-</p>
+<h1 align="center">Hi 👋, I'm Basema Odat</h1>
+<h3 align="center">A passionate student and aspiring developer from Irbid, Jordan</h3>
 
 <h1 align="center">Hi 👋, I'm Basema Odat</h1>
 <h3 align="center">AI & Data Science student | Python, C++ & Java learner | Exploring projects & file handling 🚀</h3>
